@@ -11,7 +11,7 @@
 
 ### A little bit about yourself
 
-I am 23 years old. I work as an engineer, I am engaged in the technical examination of structures. Graduated from BNTU University in 2020 with a degree in civil engineer.
+>I am 23 years old. I work as an engineer, I am engaged in the technical examination of structures. Graduated from BNTU University in 2020 with a degree in civil engineer.
 
 I want to take the course program to become a confident junior developer and actively develop in this direction.
 
