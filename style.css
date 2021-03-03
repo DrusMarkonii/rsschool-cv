@@ -3,12 +3,13 @@
     margin:0;
 }
 
-.wrapper {
+.wrapper-header {
     display:grid;
     grid-template-columns:repeat(3, 1fr);
     justify-items: center;
     background-color:rgb(18, 18, 99);
     color:cornsilk;
+    padding: 1em;
 }
 
 .wrapper > div {
