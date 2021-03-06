@@ -28,7 +28,10 @@ Basic knowledge:
 5. Framework Less
 ### Sample code
 
+
 _A snippet of code from the site during my study._
+
+---
 
     <div class="feedback">
     <h2>Заказать</h2>
@@ -74,6 +77,7 @@ _A snippet of code from the site during my study._
     </form>
     </div>
 
+---
 # Experience
 
 _I have no experience in it at the moment, unfortunately._
